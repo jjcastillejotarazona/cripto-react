@@ -1,0 +1,19 @@
+*Instalar vite:
+
+npm init vite@latest
+npim install
+
+*Instalar librería para styles component:
+
+npm install @emotion/react @emotion/styled
+
+*Instalar en visual studio code:
+
+plugin vscode-styled-components
+
+
+*Api Key cripto compare
+
+9e2fa0ad4d79948498ddb1cfb3e124815078150db199737a75e7ea4d61e9b1b7
+
+url endpoint: https://min-api.cryptocompare.com/data/top/mktcapfull?limit=10&tsym=USD&api_key=9e2fa0ad4d79948498ddb1cfb3e124815078150db199737a75e7ea4d61e9b1b7
